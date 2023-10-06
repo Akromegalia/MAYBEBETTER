@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MAYBEBETTER.cpp">
+    <ClCompile Include="ConsoleShop.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
